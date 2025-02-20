@@ -6,7 +6,8 @@ This is a basic React project for a voice-based meeting notes app. The app is de
 - **Meetings & Tasks**: Hardcoded list of meetings and tasks displayed.
 - **Recording Button**: Clicking "Start Recording" changes the button to "Stop Recording" but does not work (Future Scope).
 
-## Future Scope (Not yet Implemented)
+## Future Scope (Not yet Implemented) ❌
+
 - **Real Voice Recording**: Implement actual voice recording functionality.
 - **Speech-to-Text Transcription**: Convert conversations into text for better usability.
 - **Action Extraction**: Automatically identify tasks and meeting details from conversations.
@@ -14,6 +15,7 @@ This is a basic React project for a voice-based meeting notes app. The app is de
 - **User Authentication**: Secure access to personalized meeting notes.
 - **Real-Time Processing**: Dynamically process and update notes as conversations happen.
 
+![image](https://github.com/user-attachments/assets/d940e9fa-b557-4bfe-91c0-74adc0e44d4d)
 ## How to Run
 1. Install dependencies:
    ```sh
